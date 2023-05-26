@@ -1,3 +1,4 @@
+# Please note that every question is a single program
 # Question 1
 secret_number = 69 # secret number that user has to guess
 user_guess = int(input("Guess a number from 10 upto 99: ")) # getting the input from the user
