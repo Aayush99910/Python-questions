@@ -1,0 +1,32 @@
+CS 250 – Introduction to Programming 
+Instructor: Dr. Vidhyacharan Bhaskar
+Homework 1A: (Due: May 16, 2023 at 1.15 pm) 
+Instructions: Show the source code and the corresponding output for Questions 1, 2, 3. For Questions 4 and 5, do analytical work. Upload your homework answers as one single doc or pdf file on your HW-1A activity portal. 
+1.	Write a Python code to display the following output: 
+Name: Dick Smith
+Address: 120E, 87th Street,
+	    New York 10128.
+Phone: +440-995-5900
+My College major is Object Oriented Programming System (OOPS)
+2.	Write a Python code which will call the input() method to ask the user to enter the projected amount of sales and typecase the result into float data type and assign it to the created variable. 
+
+3.	Write a Python code which will calculate the total amount to be paid for a meal from
+
+(a)	The amount of meal purchased
+(b)	Tip on items purchased
+(c)	Sales tax on items purchased. 
+[Note: Let tip be 15% of the amount of meal purchased and let sales tax be 7% of the amount of meal purchased] 
+[Note: Accept the amount of meal purchased using the input() method and display the 
+i)	Amount of meal purchased 
+ii)	Tip on items
+iii)	Sales tax on items purchased
+iv)	Total amount to be paid. 
+
+4.	Convert the following numbers from decimal to binary: 
+
+(a)	(65)10
+(b)	(255)10
+5.	Convert the following numbers from binary to decimal: 
+
+(a)	(1101)2
+(b)	(101011)2

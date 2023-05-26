@@ -1,0 +1,24 @@
+CS 250 – Introduction to Programming
+Instructor: Dr. Vidhyacharan Bhaskar
+Homework 1B: (Due: May 24, 2023 at 3 pm) 
+Instructions: Show the source code and the corresponding output. Upload your homework answers as one single doc file on your HW-1B activity portal. 
+Each question carries 10 points
+Total: 60 points
+1.	Write a program that prints out the first n triangular numbers. A call with n = 5 would produce the following: 
+1	1
+2	3
+3	6
+4	10
+5	15
+
+2.	Write a program that counts the number of even digits in n.
+
+3.	Write a program that computes the sum of the squares of the numbers in the list numbers. For example: A call with numbers = [2, 3, 4] should print 4+9+16 which is 29.
+
+4.	Write a program to compute the factorial of a given non-negative integer n. If the user inputs any integer outside the required range, print “Error! Try again!”
+
+5.	Write a program to output grades A, B, C, D, F depending on the scores to be lying between 90 and 100, 80 and 89, 70 and 79, 60 and 69 (inclusive of the end points). If the user inputs numbers less than zero or greater than 100, print “Error! Try again!”
+
+6.	Write a program to output the strings “Monday”, “Tuesday”, etc depending on the integers 1, 2, 3 etc input by the user. If the user inputs any integer outside the range of 1 through 7, print “Error! Try again!”
+
+

@@ -1,0 +1,20 @@
+CS 250 – Introduction to Programming 
+Instructor: Dr. Vidhyacharan Bhaskar
+Homework 2A: (Due: May 31, 2023 at 3 pm)
+Total: 60 points. 
+Instructions: 
+a)	Show the source code and the corresponding output for ALL questions (even if you are displaying a known output). Upload your homework answers as one single doc file on your HW-2A activity portal. 
+b)	Please make sure the lecture HWs and lab HWs are posted only in their respective portals and they are not interchanged. 
+c)	Each question carries 10 points. 
+
+1. Think about a 2-digit number. Call this as a secret number. Write a program to ask the user to enter a guess which is also a two-digit number. Find out in how many guesses the user is able to correctly identify the secret number. Then display the secret number and the number of guesses which were needed to identify the secret number. 
+2. Write a program to arrange a given set of numbers in descending order. 
+3. Write a program to verify if the given input is prime number or not. 
+4. Write a program to compute the factorial of a given non-negative integer n. If the user inputs any integer outside the required range, print “Error! Try again!”
+5. Write a program to print the 20th Fibonacci number in the Fibonacci series 0, 1, 1, 2, 3, 5, 8, etc
+6. Linear model: 
+Draw the data points and the linear model for the Tables given on slides 3, 9, and 14. 
+(a) For the Table on slide 3, determine the viscosity at temperature 240 K. 
+(b) For the Table on slide 9, determine the value of y for (i) x = 7 (ii) x = 2. 
+
+
