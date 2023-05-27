@@ -54,6 +54,26 @@ while (not number_guessed):
 
 
 # Question 2
+list_1 = [2, 26, 563, 3584, 9, 0] # a list of numbers in random order
+index_i = 0 # starting index of i
+last_index = len(list_1) - 1 # last index of the list here it is 5
+
+# this loop will work till the ith index is less than or equal to last_index
+while (index_i <= last_index):
+  index_j = index_i + 1 # jth index is always one step next to ith
+
+  # while jth index is less than or equal to last_index this loop works
+  while (index_j <= last_index):
+    if (list_1[index_i] < list_1[index_j]): # if we find any jth position number greater than the current ith number we swap the two number
+      temp = list_1[index_i] 
+      list_1[index_i] = list_1[index_j]
+      list_1[index_j] = temp
+    
+    index_j += 1 # increamenting the jth index by 1
+  index_i += 1 # increamenting the ith index by 1
+  
+print(f"The list in descending order is {list_1}") # printing the list at last
+
 
 
 # Question 3
