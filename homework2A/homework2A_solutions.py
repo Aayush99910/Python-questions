@@ -50,7 +50,7 @@ while (not number_guessed):
     # looping until user gives number between 10 and 99
     while (user_guess < 10 or user_guess > 99):
       print(f"Enter something between 10 and 99.(Not {user_guess}): ")
-      user_guess = int(input("Guess a number from 10 upto 99: ")) # getting the input from the user'''
+      user_guess = int(input("Guess a number from 10 upto 99: ")) # getting the input from the user
 
 # Question 2
 list_1 = [2, 26, 563, 3584, 9, 0] # a list of numbers in random order
@@ -71,7 +71,7 @@ while (index_i <= last_index):
     index_j += 1 # increamenting the jth index by 1
   index_i += 1 # increamenting the ith index by 1
   
-print(f"The list in descending order is {list_1}") # printing the list at last'''
+print(f"The list in descending order is {list_1}") # printing the list at last
 
 
 
